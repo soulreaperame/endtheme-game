@@ -1,25 +1,81 @@
-🎮 EndTheme
+# 🎮 EndTheme
 
-⚙️ Engine: Unreal Engine 5.5 | 💻 Platform: Windows PC | 🎓 UNIMAS Final Year Project
+> **Engine:** Unreal Engine 5.5  
+> **Platform:** Windows PC  
+> **Project:** UNIMAS Final Year Project
 
-📝 Overview:
-EndTheme is a 3D narrative adventure game developed in Unreal Engine 5 for a Final Year Project at University Malaysia Sarawak (UNIMAS). Designed to address engagement fatigue around environmental data, EndTheme translates invisible statistical threats into an atmospheric, character-driven story to foster emotional connection and environmental awareness.
+---
 
-🌟 Key Features:
-• Metaphorical Narrative: Replaces statistics with a linear story highlighting the human costs of air pollution.
-• Atmospheric Visuals: Built in Unreal Engine 5 with procedural terrains and volumetric fog for an oppressive, smog-filled world.
-• Exploration & Dialogue: Focuses on third-person navigation and NPC interactions over complex combat systems.
-• Dynamic Palette: Environmental colors shift from muted grays to richer organic tones as story goals are completed.
+## 📝 Overview
 
-💻 System Requirements & Tech Stack:
-• Engine & Tools: Unreal Engine 5.5, Visual Studio 2022 (C++), Gaea
-• OS: Windows 11 (64-bit)
-• Recommended Specs: AMD Ryzen AI 9 / RTX 4060 (8GB VRAM) / 32 GB RAM
+**EndTheme** is a **3D narrative adventure game** developed in **Unreal Engine 5.5** as a **Final Year Project** at **University Malaysia Sarawak (UNIMAS)**.
 
-🎮 Controls:
-• Movement: W A S D
-• Camera: Mouse
-• Interact: E
-• Pause: Esc
+The project explores an alternative approach to communicating environmental issues by transforming invisible statistical threats into an atmospheric, character-driven narrative. Instead of presenting pollution through charts and numbers, **EndTheme** aims to foster emotional engagement and environmental awareness through storytelling and immersive world design.
 
-Author: Mohammad Amier Aiman
+---
+
+## 🌟 Key Features
+
+### 📖 Metaphorical Narrative
+- Replaces environmental statistics with a linear story that highlights the human impact of air pollution.
+- Encourages emotional connection rather than information overload.
+
+### 🌫️ Atmospheric Visuals
+- Built using **Unreal Engine 5.5**.
+- Features procedural terrains created with **Gaea**.
+- Uses volumetric fog and environmental effects to create an oppressive, smog-filled world.
+
+### 🧭 Exploration & Dialogue
+- Third-person adventure gameplay.
+- Focuses on exploration, NPC interactions, and environmental storytelling.
+- Minimal combat to emphasize narrative immersion.
+
+### 🎨 Dynamic Environment
+- Environmental color palette evolves throughout the story.
+- Progression shifts the world from muted gray tones to richer, organic colors as objectives are completed.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Game Engine | Unreal Engine 5.5 |
+| Programming | C++ |
+| IDE | Visual Studio 2022 |
+| Terrain Generation | Gaea |
+| Platform | Windows PC |
+
+---
+
+## 💻 System Requirements
+
+### Recommended
+
+| Component | Specification |
+|----------|---------------|
+| Operating System | Windows 11 (64-bit) |
+| Processor | AMD Ryzen AI 9 |
+| Graphics | NVIDIA RTX 4060 (8 GB VRAM) |
+| Memory | 32 GB RAM |
+
+---
+
+## 🎮 Controls
+
+| Action | Key |
+|--------|-----|
+| Move | **W A S D** |
+| Camera | **Mouse** |
+| Interact | **E** |
+| Pause | **Esc** |
+
+---
+
+## 👨‍💻 Author
+
+**Mohammad Amier Aiman**
+
+Final Year Project  
+Faculty of Computer Science and Information Technology  
+University Malaysia Sarawak (UNIMAS)
