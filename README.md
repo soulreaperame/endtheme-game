@@ -74,7 +74,7 @@ The project explores an alternative approach to communicating environmental issu
 
 ## 👨‍💻 Author
 
-**Mohammad Amier Aiman**
+**Amier**
 
 Final Year Project  
 Faculty of Computer Science and Information Technology  
