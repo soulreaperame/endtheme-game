@@ -72,6 +72,24 @@ The project explores an alternative approach to communicating environmental issu
 
 ---
 
+## Screenshots
+
+![Screenshot 1](Previews/image_1.png)
+
+![Screenshot 2](Previews/image_2.png)
+
+![Screenshot 3](Previews/image_3.png)
+
+![Screenshot 4](Previews/image_4.png)
+
+![Screenshot 5](Previews/image_5.png)
+
+![Screenshot 6](Previews/image_6.png)
+
+![Screenshot 7](Previews/image_7.png)
+
+---
+
 ## Author
 
 **Amier**  
