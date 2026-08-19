@@ -40,6 +40,22 @@
 
 ---
 
+## Getting the Project
+This repo uses **Git LFS** for large assets. Make sure Git LFS is installed before cloning:
+
+```
+git lfs install
+git clone <repository-url>
+```
+
+If you already cloned the repo without LFS set up, run this inside the project folder to pull the large files:
+
+```
+git lfs pull
+```
+
+---
+
 ## Controls
 | Action | Key |
 |--------|-----|
